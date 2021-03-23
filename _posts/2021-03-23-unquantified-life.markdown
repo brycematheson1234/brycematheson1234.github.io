@@ -9,7 +9,7 @@ categories: jekyll update
 
 <br>
 
-A blanket is drooped over your shoulders as you watch the mass of skyscrapers lay against the night's sky. Sipping a glass of red from the enclaves of your cozy apartment, the vista is obstructed by the memory of a conversation earlier today with a coworker, engalizing the cliche that money does not buy happiness. I had suspicion that he was suggesting that I had fallen victim to this fate. What an absurdity! Humans are rational beings capable of rational decisions, and it takes no longer than a moment's thought for you to know you're happier now than before. Perhaps there was a tinge of jealousy from him.
+A blanket is drooped over your shoulders as you watch the mass of skyscrapers lay against the night's sky. Sipping a glass of red from the enclaves of your cozy apartment, the vista is obstructed by the memory of a conversation earlier today with a coworker, evangelizing the cliche that money does not buy happiness. I had suspicion that he was suggesting that I had fallen victim to this fate. What an absurdity! Humans are rational beings capable of rational decisions, and it takes no longer than a moment's thought for you to know you're happier now than before. Perhaps there was a tinge of jealousy from him.
 
 <br>
 <center>***</center>
